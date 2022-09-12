@@ -1,3 +1,5 @@
+This application was created by following the course at https://www.udemy.com/course/aws-appsync-amplify-with-react-graphql-course
+
 ## Getting Started
 
 First, run the development server:
